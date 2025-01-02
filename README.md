@@ -16,6 +16,9 @@ Criei esse conteúdo com a ideia de mostrar uma típica cidade italiana, pouco c
 ![Um café Italiano](https://github.com/user-attachments/assets/2749a7a2-5e62-409b-84c7-1f29a67b0583)
 ![image](https://github.com/user-attachments/assets/26e97ee8-edc8-4258-baff-de415be09144)
 ![0](https://github.com/user-attachments/assets/984f491b-02d8-4f7b-8e98-4546f48704c8)
+![praça principal](https://github.com/user-attachments/assets/be74bea5-90b0-4b72-8148-2888b61d7f46)
+
+
 
 
 
