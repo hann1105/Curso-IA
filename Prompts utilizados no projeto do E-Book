@@ -1,6 +1,18 @@
-1)Faça um texto para ebook, com foco em musculação, listando os principais exercícios para se ter um bom desenvolvimento muscular com exemplos detalhados de como fazer, onde e qual área muscular está sendo trabalhada. 
-Regras: 1)Explique sempre de maneira simples e clara; 2) deixe o texto enxuto; 3) Sempre traga exemplos de exercícios em contextos reais; 4) sempre deixe um título sugerido por tópico
-2)Explique mais sobre cada exercício e sua função no corpo e coloque separado para cada grupo muscular;
-3)Escreva os textos levando ao contexto de máquinas, como base no título: Força Mecânica: Treine como uma máquina;
-4)Escreva mais detalhes sobre cada exercício, tipos, métodos de fazer.
-Link do e-book: github.com/hann1105/Curso-IA
+Prompts
+ChatGPT：
+Ação	prompt
+título: faça um texto para ebook, com foco em musculação, listando os principais exercícios para se ter um bom desenvolvimento muscular com exemplos detalhados de como fazer, onde e qual área muscular está sendo trabalhada. Regras: 1)Explique sempre de maneira simples e clara; 2) deixe o texto enxuto; 3) Sempre traga exemplos de exercícios em contextos reais; 4) sempre deixe um título sugerido por tópico
+
+Ação prompt
+conteúdo: explique mais sobre cada exercício e sua função no corpo e coloque separado para cada grupo muscular;
+
+Ação Prompt
+conteúdo:escreva mais detalhes sobre cada exercício, tipos, métodos de fazer;
+crie uma imagem com os tipos de agachamento
+
+Ação Prompt
+conteúdo:crie imagens para o ebook de tema 'Força Mecânica: Treine como uma máquina' cria atrai a atenção dos leitores, com visual robótico e que transmite curiosidade.
+
+Microsoft Copilot:
+Ação Prompt
+conteúdo:crie imagens para o ebook de tema 'Força Mecânica: Treine como uma máquina' cria atrai a atenção dos leitores, com visual robótico e que transmite curiosidade.
