@@ -1,2 +1,2 @@
-Este repositório foi destinados aos projetos do curso sobre Inteligência Artificial da plataforma DIO, estão presentes projetos como a criação de fotos por IA de uma cidade italiana
-e também o projeto de criação de E-Books com IA juntamento com o arquivos de todos os prompts utilizados para a criação do e-blook, foram utilizados o Chat GPT e o Microsoft Copilot.
+Este repositório foi destinados aos projetos do curso sobre Inteligência Artificial da plataforma DIO, estão presentes projetos como a criação de fotos por IA de uma cidade italiana,também o projeto de criação de E-Books com IA juntamento com o arquivos de todos os prompts utilizados para a criação do e-blook, foram utilizados o Chat GPT e o Microsoft Copilot.
+Outro projeto foi a criação de Podcast, arquivo "Pythonverso:O multiverso dos códigos", feito por IAs como o Chat GPT para a capa e roteiro e o Eleven Labs para a criação da voz.
